@@ -1,5 +1,6 @@
 # Master-Mind-Color-Game
-A color game made in python, featuring testing
+A color game made in python, featuring testing.
+Made by Elvessa Tatum and Dang Pham
 
 
 This is a Python implementation of the MasterMind game — a classic color-guessing logic game. The game provides a simple graphical user interface built using Tkinter and separates the game logic (backend) from the interface (frontend) for modularity and testability.
