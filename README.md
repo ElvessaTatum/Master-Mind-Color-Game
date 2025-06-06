@@ -1,5 +1,5 @@
 # Master-Mind-Color-Game
-A color game made in python, featuring testing.
+A color game made in python, including testing.
 Made by Elvessa Tatum and Dang Pham
 
 
